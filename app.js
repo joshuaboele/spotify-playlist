@@ -33,3 +33,5 @@ input.addEventListener('change', e => {
 // Spotify API gebruiken om playlist te maken
 // Kijken wat we doen met albums (en artiesten?)
 // Styling
+
+
