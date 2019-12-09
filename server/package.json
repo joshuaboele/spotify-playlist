@@ -1,0 +1,18 @@
+{
+  "name": "whatsappify",
+  "version": "1.0.0",
+  "description": "Turn whatsapp conversations into Spotify playlists",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "nodemon server.js"
+  },
+  "author": "Babyboytaksi en Daan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
